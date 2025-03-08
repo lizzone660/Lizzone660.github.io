@@ -1,0 +1,31 @@
+#ans1{
+    display: none;
+    width: auto;
+    height: auto;
+}
+
+#ans2{
+    display: none;
+    width: auto;
+    height: auto;
+}
+ #ans3{
+        display: none;
+        width: auto;
+        height: auto;
+    
+}
+#divchesco{
+    background-color: white;
+    height: auto;
+    width: auto;
+    padding: 10px;
+
+}
+
+
+#q1, #q2, #q3{
+    margin: 10px;
+    background-color: aqua;
+}
+
